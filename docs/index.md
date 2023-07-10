@@ -50,11 +50,11 @@ Tech in Biochem and Molecular Biology, Rexburg, ID
 ### Relevant Courses
 - Biology I, Biology II
 - Genetics, Cell and Molecular Biology
--Bioinformatics
--Intermediate Statistics in R programming
--Experimental Design in R programming
--Intro to databases, Database design and development (both in MySQL)
--Intro to programming, Programminng with functions (both in python)
+- Bioinformatics
+- Intermediate Statistics in R programming
+- Experimental Design in R programming
+- Intro to databases, Database design and development (both in MySQL)
+- Intro to programming, Programminng with functions (both in python)
 
 
 
